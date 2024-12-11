@@ -1,0 +1,17 @@
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\bin\Debug\net8.0-windows\day3.exe
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\bin\Debug\net8.0-windows\day3.deps.json
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\bin\Debug\net8.0-windows\day3.runtimeconfig.json
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\bin\Debug\net8.0-windows\day3.dll
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\bin\Debug\net8.0-windows\day3.pdb
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\obj\Debug\net8.0-windows\day3.Form1.resources
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\obj\Debug\net8.0-windows\day3.csproj.GenerateResource.cache
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\obj\Debug\net8.0-windows\day3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\obj\Debug\net8.0-windows\day3.AssemblyInfoInputs.cache
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\obj\Debug\net8.0-windows\day3.AssemblyInfo.cs
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\obj\Debug\net8.0-windows\day3.csproj.CoreCompileInputs.cache
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\obj\Debug\net8.0-windows\day3.dll
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\obj\Debug\net8.0-windows\refint\day3.dll
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\obj\Debug\net8.0-windows\day3.pdb
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\obj\Debug\net8.0-windows\day3.genruntimeconfig.cache
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\obj\Debug\net8.0-windows\ref\day3.dll
+C:\Users\mfree\OneDrive\سطح المكتب\3333\day3\day3\obj\Debug\net8.0-windows\day3.Properties.Resources.resources
